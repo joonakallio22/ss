@@ -8,7 +8,7 @@ _Miten päääset asennuksen aikana Audit tilaan_
 
 _Miten mukauttaisit ympäristöä ennen sysprep ohjelman ajamista?_
 
-* Asentaisin paremman selaimen ja laittaisin nettiasetukset kuntoon
+* Lataisin paremman selaimen ja laittaisin internetasetukset kuntoon
 
 
 
